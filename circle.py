@@ -4,7 +4,7 @@ import random as rd
 wn = t.Screen()
 t.bgcolor("black")
 t.pencolor("black")
-t.width(2)
+t.pensize(1)
 t.up()
 t.goto(-150,0)
 t.down()
