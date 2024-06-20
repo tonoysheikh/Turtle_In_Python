@@ -23,5 +23,5 @@ for i in range(1,6):
     t.bk(150)
     t.down()
    
-
+t.hideturtle()
 wn.exitonclick()
